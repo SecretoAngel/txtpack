@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/flower_pot",
+  "overrides": [
+    { "predicate": {"custom_model_data": 483000}, "model": "item/blocks/saco_fundicion"},
+    { "predicate": {"custom_model_data": 483001}, "model": "item/blocks/deepslate_tile_stairs"},
+    { "predicate": {"custom_model_data": 483002}, "model": "item/blocks/molde/hachacomun"},
+    { "predicate": {"custom_model_data": 483003}, "model": "item/blocks/molde/hachaepico"},
+    { "predicate": {"custom_model_data": 483004}, "model": "item/blocks/molde/hachalegendario"},
+    { "predicate": {"custom_model_data": 483005}, "model": "item/blocks/molde/misterioso"},
+    { "predicate": {"custom_model_data": 484001}, "model": "item/blocks/salidametal"}
+]
+}

@@ -1,0 +1,17 @@
+{
+	"custom.zse_pop": {
+		"sounds": [
+			"custom/se_pop"
+		]
+	},
+	"custom.zse_lava": {
+		"sounds": [
+			"custom/se_lava"
+		]
+	}
+	
+	
+
+}
+
+
